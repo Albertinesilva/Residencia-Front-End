@@ -1,21 +1,31 @@
 <h1 align="center">ResidenciaFrontRnd</h1>
 
-## OBJETIVO DA ATIVIDADE
-### Desenvolvimento de um site da web básico, estruturando o conteúdo das páginas utilizando as tags HTML vistas em sala de aula, como headings, navegação entre páginas, listas, parágrafos, quebra de linhas, mudanças temáticas de conteúdo. Publicar o site na Internet (repositório github) para que fique disponível para todo o mundo.
+## Introdução
 
-## DESCRIÇÃO DA ATIVIDADE
+Este repositório foi criado para armazenar os exercícios e atividades desenvolvidos durante a residência front-end. A estrutura organizacional é projetada para facilitar a navegação e localização específica de atividades.
 
-### Criação de uma carta de apresentação para ser entregue na empresa em busca de um trabalho de desenvolvedor web. Para isso, o aluno deve seguir os seguintes passos para concluir esta tarefa:
-### 1. Crie um arquivo HTML chamado de index.html;
-### 2. Crie um elemento título com o texto “Carta de Apresentação - <seu nome>”;
-### 3. No corpo da página, escreva instruções HTML para descrever os seguintes tópicos:
-### a. Informações pessoais para que a recrutadora possa entrar em contato (Nome, sobrenome, email, telefone, endereço do linkedln);
-### b. Carta de apresentação onde você deve descrever suas experiências acadêmicas e profissionais, mostre como você pode contribuir com a empresa e por fim, despedida e assinatura;
-### c. Um link para uma outra página (porƟfolio.html) onde será apresentado todas as suas páginas web que foram criadas durante o período em sala de aula com seus respecƟvos links.
-### 4. Utilize as tags HTML aprendidas em sala para formatar o seu conteúdo (p, h1 a h6, hr, br/, ul, ol, a, img, etc);
-### 5. Teste seu site em pelo menos dois navegadores web para verificar se está tudo correto;
-### 6. Publique seu site no repositório github (https://github.com/) e disponibilize o endereço.
-## Observações: Use apenas HTML para criar seu website mesmo que você tenha experiência com CSS e JavaScript.
+## Estrutura do Repositório
 
-### Site publicado no github pages: https://albertinesilva.github.io/ResidenciaFrontRnd/
+O repositório está organizado nas seguintes pastas:
+
+### [Semana 1 (semana1)](semana1)
+
+- **P001:** Descrição da atividade prática 1 e seus arquivos correspondentes.
+- **Atividades em Sala:** Documentação das atividades realizadas em sala de aula.
+
+### [Semana 2 (semana2)](semana2)
+
+- **P002:** Descrição da atividade prática 2 e seus arquivos correspondentes.
+- **Atividades em Sala:** Documentação das atividades realizadas em sala de aula.
+
+### [Semana 3 (semana3)](semana3)
+
+- **P003:** Descrição da atividade prática 3 e seus arquivos correspondentes.
+- **Atividades em Sala:** Documentação das atividades realizadas em sala de aula.
+
+### [Semana 4 (semana4)](semana4)
+
+- **P004:** Descrição da atividade prática 4 e seus arquivos correspondentes.
+- **Atividades em Sala:** Documentação das atividades realizadas em sala de aula.
+
 #### Autor: [Albert Silva]
