@@ -1,31 +1,27 @@
-<h1 align="center">ResidenciaFrontRnd</h1>
+# UESCApp
 
-## Introdução
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.7.
 
-Este repositório foi criado para armazenar os exercícios e atividades desenvolvidos durante a residência front-end. A estrutura organizacional é projetada para facilitar a navegação e localização específica de atividades.
+## Development server
 
-## Estrutura do Repositório
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-O repositório está organizado nas seguintes pastas:
+## Code scaffolding
 
-### [Semana 1 (semana1)](semana1)
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-- **P001:** Descrição da atividade prática 1 e seus arquivos correspondentes.
-- **Atividades em Sala:** Documentação das atividades realizadas em sala de aula.
+## Build
 
-### [Semana 2 (semana2)](semana2)
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-- **P002:** Descrição da atividade prática 2 e seus arquivos correspondentes.
-- **Atividades em Sala:** Documentação das atividades realizadas em sala de aula.
+## Running unit tests
 
-### [Semana 3 (semana3)](semana3)
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-- **P003:** Descrição da atividade prática 3 e seus arquivos correspondentes.
-- **Atividades em Sala:** Documentação das atividades realizadas em sala de aula.
+## Running end-to-end tests
 
-### [Semana 4 (semana4)](semana4)
+Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
-- **P004:** Descrição da atividade prática 4 e seus arquivos correspondentes.
-- **Atividades em Sala:** Documentação das atividades realizadas em sala de aula.
+## Further help
 
-#### Autor: [Albert Silva]
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
