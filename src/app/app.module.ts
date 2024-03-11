@@ -18,7 +18,7 @@ import { DropdownModule } from 'primeng/dropdown';
 import { CalendarModule } from 'primeng/calendar';
 import { ChartModule } from 'primeng/chart';
 import { MenuModule } from 'primeng/menu';
-import { AccordionModule } from 'primeng/accordion';
+import { AccordionModule } from 'primeng/accordion' ;
 
 import { HTTP_INTERCEPTORS, HttpClientModule } from '@angular/common/http';
 import { AddSuinoComponent } from './components/suino-components/add-suino/add-suino.component';
