@@ -9,7 +9,7 @@ import { Componente2Component } from './componente2/componente2.component';
 const routes: Routes = [
   { path: 'componente1', component: Componente1Component },
   { path: 'componente2', component: Componente2Component },
-  { path: '', redirectTo: '/componente1', pathMatch: 'full' },
+  { path: '', redirectTo: '/componente1', pathMatch: 'full'},
 ];
 
 @NgModule({
