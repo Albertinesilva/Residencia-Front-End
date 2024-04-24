@@ -1,31 +1,27 @@
-<h1 align="center">ResidenciaFrontRnd</h1>
+# CarrinhoDeCompras
 
-Este repositório contém os materiais e atividades da Residência de Software
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.3.
 
-## Organização das Trilhas
+## Development server
 
-As trilhas estão organizadas da seguinte forma:
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-- **Java Avançado**: Esta trilha é dividida em aulas, cada uma com uma atividade diferente.
-  - `aula-1`: Atividades da primeira aula.
-  - `aula-2`: Atividades da segunda aula.
-  - `aula-3`: Atividades da terceira aula.
-  - ...
+## Code scaffolding
 
-Dentro de cada pasta de aula, você encontrará as atividades correspondentes e uma pasta contendo os slides do exercício e da aula.
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Branches do Repositório
+## Build
 
-As branches do repositório são referentes a cada disciplina da trilha. Atualmente, as seguintes branches estão disponíveis:
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-- `java-basico`: Contém os materiais e atividades para a trilha de Java Básico.
-- `java-avancado`: Contém os materiais e atividades para a trilha de Java Avançado.
-- `front-end`: Contém os materiais e atividades para a trilha de Front-End.
-- `DotNet`: Contém os materiais e atividades para a trilha de DotNet.
-- `Python`: Contém os materiais e atividades para a trilha de Python.
+## Running unit tests
 
-## Atualizações
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-Este README.md estará em constante atualização para refletir quaisquer alterações ou adições nos materiais ou na estrutura do repository.
+## Running end-to-end tests
 
-#### Autor: [Albert Silva]
+Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+
+## Further help
+
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
