@@ -24,3 +24,5 @@ export class ItemComponent {
   public addToCart() {
     this.service.addToCart(this.item);
     this.router.navigate(['/carrinho']);
+  }
+}
